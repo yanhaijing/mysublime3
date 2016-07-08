@@ -5,6 +5,8 @@
 	"font_size": 14,
 	"ignored_packages":
 	[
+		"SideBarEnhancements",
+		"SyncedSidebarBg",
 		"Vintage"
 	],
 	"translate_tabs_to_spaces": true,

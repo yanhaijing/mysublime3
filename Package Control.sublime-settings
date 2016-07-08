@@ -7,9 +7,12 @@
 	[
 		"Alignment",
 		"All Autocomplete",
+		"AutoFileName",
 		"BracketHighlighter",
+		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
+		"Git",
 		"HTML-CSS-JS Prettify",
 		"HTMLEntity Snippets",
 		"jQuery",
@@ -21,7 +24,10 @@
 		"Package Syncing",
 		"Pretty JSON",
 		"SCSS",
+		"SideBarEnhancements",
 		"Smarty",
-		"Terminal"
+		"SyncedSidebarBg",
+		"Terminal",
+		"TortoiseSVN"
 	]
 }
