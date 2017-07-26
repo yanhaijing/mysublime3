@@ -2,19 +2,24 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TortoiseSVN"
 	],
 	"installed_packages":
 	[
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
+		"Babel",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"Git",
+		"Handlebars",
+		"Hjson",
 		"HTML-CSS-JS Prettify",
 		"HTMLEntity Snippets",
+		"JavaScript Completions",
 		"jQuery",
 		"LESS",
 		"Liquid",
@@ -26,6 +31,8 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"Smarty",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SyncedSidebarBg",
 		"Terminal",
 		"TortoiseSVN"
