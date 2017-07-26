@@ -1,12 +1,13 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 14,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"SideBarEnhancements",
 		"SyncedSidebarBg",
+		"TortoiseSVN",
 		"Vintage"
 	],
 	"translate_tabs_to_spaces": true,

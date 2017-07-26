@@ -1,0 +1,22 @@
+{
+	"user":
+	{
+		"debug": false,
+		"gutter_theme": "",
+		"lint_mode": "manual",
+		"linters":
+		{
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
+		},
+		"passive_warnings": true
+	}
+}
