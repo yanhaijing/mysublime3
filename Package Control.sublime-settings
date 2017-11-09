@@ -2,10 +2,10 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"TortoiseSVN"
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
@@ -14,6 +14,7 @@
 		"Clickable URLs",
 		"ConvertToUTF8",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"Git",
 		"Handlebars",
@@ -25,6 +26,8 @@
 		"LESS",
 		"Liquid",
 		"Markdown Preview",
+		"Markdown Table Formatter",
+		"MarkdownTOC",
 		"MultiEditUtils",
 		"Package Control",
 		"Package Syncing",
@@ -35,7 +38,9 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SyncedSidebarBg",
+		"Table Editor",
 		"Terminal",
-		"TortoiseSVN"
+		"TortoiseSVN",
+		"TypeScript Syntax"
 	]
 }
