@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TortoiseSVN"
 	],
 	"installed_packages":
 	[
@@ -12,10 +13,13 @@
 		"Babel",
 		"BracketHighlighter",
 		"Clickable URLs",
+		"Codecs33",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"EditorConfig",
+		"EJS",
 		"Emmet",
+		"GBK Support",
 		"Git",
 		"Handlebars",
 		"Hjson",
@@ -36,7 +40,7 @@
 		"SideBarEnhancements",
 		"Smarty",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"SyncedSidebarBg",
 		"Table Editor",
 		"Terminal",

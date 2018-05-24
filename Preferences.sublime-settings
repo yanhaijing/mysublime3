@@ -25,6 +25,7 @@
 	"ignored_packages":
 	[
 		"SideBarEnhancements",
+		"SublimeLinter-eslint",
 		"SyncedSidebarBg",
 		"TortoiseSVN",
 		"Vintage"
