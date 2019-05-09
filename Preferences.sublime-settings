@@ -18,18 +18,24 @@
 		"node_modules/**/node_modules/**",
 		".certs/**"
 	],
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 16,
 	"ignored_packages":
 	[
+		"Git",
+		"Git Formats",
+		"Markdown Table Formatter",
+		"MarkdownTOC",
 		"SideBarEnhancements",
+		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SyncedSidebarBg",
 		"TortoiseSVN",
 		"Vintage"
 	],
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
 }

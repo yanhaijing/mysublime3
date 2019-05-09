@@ -6,6 +6,7 @@
 	],
 	"installed_packages":
 	[
+		"3024 Color Scheme",
 		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
@@ -14,6 +15,7 @@
 		"BracketHighlighter",
 		"Clickable URLs",
 		"Codecs33",
+		"ColorHelper",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"EditorConfig",
@@ -29,8 +31,8 @@
 		"jQuery",
 		"LESS",
 		"Liquid",
-		"Markdown Preview",
 		"Markdown Table Formatter",
+		"MarkdownPreview",
 		"MarkdownTOC",
 		"MultiEditUtils",
 		"Package Control",
@@ -39,12 +41,16 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"Smarty",
+		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SyncedSidebarBg",
+		"Syntax Highlighting for PostCSS",
 		"Table Editor",
 		"Terminal",
 		"TortoiseSVN",
-		"TypeScript Syntax"
+		"TypeScript",
+		"TypeScript Syntax",
+		"Vue Syntax Highlight"
 	]
 }
